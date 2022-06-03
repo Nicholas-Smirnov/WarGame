@@ -1,2 +1,2 @@
 # WarGame
-This is a simple war game made with Java UI.
+This is a basic war game made with Java UI. Hope you enjoy!
